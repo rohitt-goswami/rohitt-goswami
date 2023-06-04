@@ -1,3 +1,4 @@
+<img width="2000" src="https://github.com/rohitt-goswami/rohitt-goswami/blob/main/Push%20your%20limits%2C%20(1).png">
 <h1 align="center">Hi 👋, I'm Rohit Goswami</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
